@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeasleyClock</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="clock">Clock</string>
+    <string name="clockHand">Clock Hand</string>
+</resources>
